@@ -49,7 +49,7 @@ Projects & extracurricular activities
 
 Skills
 ======
-* Programming & data analysis
+* Programming & data analysis 
   * Advanced: MATLAB, Python, Excel
   * Working knowledge: Stata, RStudio, Dynare
 * Macroeconometric analysis, policy analysis, and strategic assessment of aggregate economic and sectoral dynamics
