@@ -23,7 +23,7 @@ repository               : "leodeco03/leodeco03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/8b50e578-96c8-4fbc-b3ee-8aa988a5d171.jpg"
+  avatar           : "images/bio_photo.jpg"
   name             : "Leonardo Decorte"
   pronouns         : # example: "she/her"  
   bio              : "Applied Economics and Markets student at UniBo"
