@@ -55,11 +55,11 @@ Skills
 * Macroeconometric analysis, policy analysis, and strategic assessment of aggregate economic and sectoral dynamics
 * Languages: Italian (native), English (C1 — IELTS 7.5/9.0), Spanish (A2)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Publications
+* ======
+* <ul>{% for post in site.publications reversed %}
+  * {% include archive-single-cv.html %}
+  * {% endfor %}</ul>
 
 Service and leadership
 ======
